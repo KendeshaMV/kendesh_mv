@@ -30,17 +30,8 @@ pipeline {
                            }
                            }
                             stage('Integration test') {
-                              agent {
-                                    docker {
-                                            reuseNode true
-                                            image 'Windows'
-                                           }
-                                    }
-                              steps {
-                                echo "Running the integration test..."
                               }
                            }
                            }
                            }
               }
-}
