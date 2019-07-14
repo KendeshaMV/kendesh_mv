@@ -1,3 +1,1 @@
-#!bash/bin
-
-echo "hello"
+<html> hello </html>
