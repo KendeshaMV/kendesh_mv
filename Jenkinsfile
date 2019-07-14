@@ -27,6 +27,10 @@ pipeline {
                            steps {
                                 echo "Running the unit test..."
                            }
-                           }
-                                echo "Running the integration test..."
               }
+	      }
+	      }
+	      }
+	      }
+	      }
+
