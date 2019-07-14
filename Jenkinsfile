@@ -44,7 +44,7 @@ pipeline {
 
             steps {
 
-                git url: 'https://github.com/priya1233/testPipelineSrcCode.git'
+                git url: 'https://github.com/KendeshaMV/kendesh_mv.git'
 
             }
 
