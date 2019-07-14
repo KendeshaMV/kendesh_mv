@@ -30,9 +30,9 @@ pipeline {
 
 	tools {
 
-		jdk "jdk-12.0.1"
+		jdk "jdk8"
 
-		maven "3.6.1"
+		maven "3"
 
 	}
 
